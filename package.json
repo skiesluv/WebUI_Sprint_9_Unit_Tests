@@ -1,0 +1,22 @@
+{
+  "name": "tasks_sprint_9",
+  "version": "1.0.0",
+  "description": "Jest intro",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "tests"
+  ],
+  "author": "Mutsyn",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.1"
+  }
+}
